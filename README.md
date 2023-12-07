@@ -20,6 +20,23 @@ Previously, at Wall Street Bound as a finance intern, I delivered extensive pres
 For further discussions or opportunities, feel free to reach me via email at powellahaneku@gmail.com
 
 
+<h2>Skills</h2>
+<ul>
+  <li>SQL (PostgreSQL, MySQL)</li>
+  <li>Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn)</li>
+  <li>Power BI</li>
+  <li>Tableau</li>
+  <li>Excel (Financial Analysis, Modeling)</li>
+  <li>Data Cleaning/Validation</li>
+  <li>Exploratory Data Analysis (EDA)</li>
+  <li>Statistical Analysis</li>
+  <li>Data Visualization</li>
+  <li>Database Design</li>
+</ul>
+
+
+<h1>Projects</h1>
+
 
 
 
