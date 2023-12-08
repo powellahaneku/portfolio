@@ -81,7 +81,7 @@ For further discussions or opportunities, feel free to reach me via email at pow
 
 <b>See Project: </b><a href="https://github.com/powellahaneku/Webscraper/tree/main">Web Scrapping ETL Tool</a>
 <br>
-<b>Skills: </b> JavaScript expertise, DOM traversal and manipulation, asynchronous / promises, event handling, HTML & CSS, debugging, local storage, CSV file generation, and handling API calls for web interactions
+<b>Skills: </b> JavaScript expertise, DOM traversal and manipulation, Asynchronous / Promises, Event Handling, HTML & CSS, Debugging, Local Storage, CSV file generation, and handling API calls for web interactions
 
 
 
