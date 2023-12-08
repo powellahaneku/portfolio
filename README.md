@@ -32,10 +32,23 @@ For further discussions or opportunities, feel free to reach me via email at pow
   <li>Statistical Analysis</li>
   <li>Data Visualization</li>
   <li>Database Design</li>
+  <li>Web Development (Javascript, HTMl/CSS, React, Node.Js)</li>
 </ul>
 
 
 <h1>Projects</h1>
+
+<h2>Web Scrapping ETL Process</h2>
+<code>Javascript</code> <code>Excel</code>
+
+The JavaScript code functions as a web scraping tool designed to automate the extraction of student data from a specific web interface. It starts by prompting the user to input a list of student IDs, then converts this input into an array format. Upon execution, it initiates a data extraction process for each student ID provided. The core functions within the script interact with the web interface by querying elements to retrieve personal information, service indicators, and academic grades. It compiles this information into a structured format and stores it in local storage to prevent data loss. The script also includes error handling to manage cases where data might be missing or if the web interface's load time varies. Additionally, it offers features like CSV file generation for the collected data and provides an overview of the current data processing status. Overall, the script streamlines the process of gathering comprehensive student information for analysis and record-keeping purposes.
+
+
+
+
+
+
+
 
 
 
