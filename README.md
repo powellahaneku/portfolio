@@ -42,7 +42,7 @@ For further discussions or opportunities, feel free to reach me via email at pow
 <!--Project 1 -->
 
 <h2>1.<a href="https://github.com/powellahaneku/Webscraper/tree/main"> Finance Dashboard</a></h2>
-<code>Python</code> <code>Excel</code> <code>Power BI</code> <code>Excel</code>
+<code>Python</code> <code>Excel</code> <code>Power BI</code> <code>API's</code>
 
 <h3>Introduction</h3>
 <p>Include Text</p>
