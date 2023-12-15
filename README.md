@@ -32,7 +32,7 @@ For further discussions or opportunities, feel free to reach me via email at pow
   <li>Statistical Analysis</li>
   <li>Data Visualization</li>
   <li>Database Design</li>
-  <li>Web Development (Javascript, HTMl/CSS, React, Node.Js)</li>
+  <li>Web Development (Javascript, HTML/CSS, React, Node.Js)</li>
 </ul>
 
 
