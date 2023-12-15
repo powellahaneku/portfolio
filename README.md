@@ -68,10 +68,10 @@ For further discussions or opportunities, feel free to reach me via email at pow
 
 
 
-<!--Project 2 -->
+<!--Project 3 -->
 
 <h3>2.<a href="https://github.com/powellahaneku/Webscraper/tree/main">HR Analytics Dashboard</a></h3>
-<code>Python</code> <code>Excel</code> <code>Power BI</code> <code>API's</code>
+<code>DAX</code> <code>Excel</code> <code>Power BI</code> <code>SQL</code> <code>ETL</code>
 <p> </p>
 
 <p>The HR Dashboard project is designed to provide a comprehensive view of various HR-related metrics within the organization. Leveraging Power BI, this dashboard offers insights into employee data, including total employees, retrenchment statistics, promotions by department, and overtime trends. The dashboard comprises three main pages: Home, Action, and Detail, each focusing on specific HR-related data sets.
