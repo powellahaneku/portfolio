@@ -41,7 +41,7 @@ For further discussions or opportunities, feel free to reach me via email at pow
 
 <!--Project 1 -->
 
-<h3>1.<a href="https://github.com/powellahaneku/Webscraper/tree/main"> Finance Dashboard</a></h3>
+<h3>1.<a href=" "> Finance Dashboard</a></h3>
 <code>Python</code> <code>Excel</code> <code>Power BI</code> <code>API's</code>
 <p> </p>
 <p>Include Text</p>
