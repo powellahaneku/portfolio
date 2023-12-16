@@ -57,14 +57,14 @@ For further discussions or opportunities, feel free to reach me via email at pow
 <code>Javascript</code> <code>Excel</code>
 <p> </p>
 
-<p>The JavaScript code functions as a web scraping tool designed to automate the extraction of student data from a specific web interface. It starts by prompting the user to input a list of student IDs, then converts this input into an array format. Upon execution, it initiates a data extraction process for each student ID provided. The core functions within the script interact with the web interface by querying elements to retrieve personal information, service indicators, and academic grades. It compiles this information into a structured format and stores it in local storage to prevent data loss. The script also includes error handling to manage cases where data might be missing or if the web interface's load time varies. Additionally, it offers features like CSV file generation for the collected data and provides an overview of the current data processing status. Overall, the script streamlines the process of gathering comprehensive student information for analysis and record-keeping purposes.
+<p>The JavaScript code functions as a web scraping tool designed to automate the extraction of student data from a specific web interface. It starts by prompting the user to input a list of student IDs and then converts this input into an array format. Upon execution, it initiates a data extraction process for each student ID provided. The core functions within the script interact with the web interface by querying elements to retrieve personal information, service indicators, and academic grades. It compiles this information into a structured format and stores it in local storage to prevent data loss. The script also includes error handling to manage cases where data might be missing or if the web interface's load time varies. Additionally, it offers features like CSV file generation for the collected data and provides an overview of the current data processing status. Overall, the script streamlines the process of gathering comprehensive student information for analysis and record-keeping purposes.
 </p>
 
 <p>Please know that the underlying information was altered to maintain data integrity. </p>
 
 <b>See Project: </b><a href="https://github.com/powellahaneku/Webscraper/tree/main">Web Scrapping ETL Tool</a>
 <br>
-<b>Skills: </b> JavaScript expertise, DOM traversal and manipulation, asynchronous / promises, event handling, HTML & CSS, debugging, local storage, CSV file generation, and handling API calls for web interactions
+<b>Skills: </b> JavaScript, DOM traversal and manipulation, Asynchronous / Promises, Event Handling, HTML & CSS, Debugging, Local Storage, CSV file generation, and handling API calls for web interactions
 
 
 
@@ -82,7 +82,7 @@ For further discussions or opportunities, feel free to reach me via email at pow
 
 <b>See Project: </b><a href="https://github.com/powellahaneku/HRDataAnalysis/blob/main/HR%20Data%20Analysis.pdf">HR Analytics Dashboard PDF</a>
 <br>
-<b>Skills: </b> DAX, Data Modeling, SQL Knowledge, Excel Skills, Data Visualization, ETL (Extract, Transform, Load), Problem-Solving Skills, Understanding of Data Sources, Analytical Skills, Continuous Learning
+<b>Skills: </b> DAX, Data Modeling, Excel, Data Visualization, ETL (Extract, Transform, Load), Power Query
 
 
 
