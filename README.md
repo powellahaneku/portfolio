@@ -85,7 +85,21 @@ For further discussions or opportunities, feel free to reach me via email at pow
 <b>Skills: </b> DAX, Data Modeling, Excel, Data Visualization, ETL (Extract, Transform, Load), Power Query
 
 
+<!--Project 3 -->
 
+<h3>2.<a href="https://powellahaneku.github.io/powell.github.io/#Into">HR Analytics Dashboard</a></h3>
+<code>React.js</code> <code>Nodes.js</code> <code>Bootstrap</code> <code>HTML</code> <code>CSS</code> <code>Javascript</code> 
+<p> </p>
+
+<p>The HR Dashboard project is designed to provide a comprehensive view of various HR-related metrics within the organization. Leveraging Power BI, this dashboard offers insights into employee data, including total employees, retrenchment statistics, promotions by department, and overtime trends. The dashboard comprises three main pages: Home, Action, and Detail, each focusing on specific HR-related data sets.
+
+
+
+<p>Please know that the underlying information was altered to maintain data integrity. The presentation is not available due to privacy policies. </p>
+
+<b>See Project: </b><a href="https://github.com/powellahaneku/HRDataAnalysis/blob/main/HR%20Data%20Analysis.pdf">HR Analytics Dashboard PDF</a>
+<br>
+<b>Skills: </b> DAX, Data Modeling, Excel, Data Visualization, ETL (Extract, Transform, Load), Power Query
 
 
 
