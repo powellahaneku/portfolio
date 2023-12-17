@@ -70,7 +70,7 @@ For further discussions or opportunities, feel free to reach me via email at pow
 
 <!--Project 3 -->
 
-<h3>3.<a href="https://github.com/powellahaneku/Webscraper/tree/main">HR Analytics Dashboard</a></h3>
+<h3>3.<a href="https://github.com/powellahaneku/HRDataAnalysis">HR Analytics Dashboard</a></h3>
 <code>DAX</code> <code>Excel</code> <code>Power BI</code> <code>SQL</code> <code>ETL</code>
 <p> </p>
 
@@ -95,6 +95,7 @@ For further discussions or opportunities, feel free to reach me via email at pow
 
 
 <b>See Project: </b><a href="[https://github.com/powellahaneku/HRDataAnalysis/blob/main/HR%20Data%20Analysis.pdf](https://powellahaneku.github.io/powell.github.io/#Into)">Bootsrap Web Page</a>
+
 <br>
 <b>Skills: </b> Bootstrap, Javascript, HTML/CSS, NPM, React
 
