@@ -41,15 +41,15 @@ For further discussions or opportunities, feel free to reach me via email at pow
 
 <!--Project 1 -->
 
-<h3>1.<a href=" "> Finance Dashboard</a></h3>
-<code>Python</code> <code>Excel</code> <code>Power BI</code> <code>API's</code>
+<h3>1.<a href=" "> Finance Dashboard</a></h3>(Coming Soon)
+<!-- <code>Python</code> <code>Excel</code> <code>Power BI</code> <code>API's</code>
 <p> </p>
 <p>Include Text</p>
 
 <b>See Project: </b><a href="https://github.com/powellahaneku/Webscraper/tree/main">Interactive Finance Dashboard</a>
 <br>
 <b>Skills: </b> JavaScript expertise, DOM traversal and manipulation, asynchronous / promises, event handling, HTML & CSS, debugging, local storage, CSV file generation, and handling API calls for web interactions
-
+ -->
 
 <!--Project 2 -->
 
