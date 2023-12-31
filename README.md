@@ -1,5 +1,7 @@
 <h1>Portfolio</h1>
 <code>Data Analytics</code> <code>Financial Analysis</code> <code>Web Developement</code>
+<hr>
+
 <p>Hello!
 
 My name is Powell Ahaneku, and welcome to my data analytics portfolio!
