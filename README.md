@@ -74,7 +74,7 @@ To complete these projects, I used a variety of tools and software. For database
 
 <!--Project 4 -->
 
-<h3>4.<a href="https://powellahaneku.github.io/powell.github.io/#Into">Bootsrap Web Page</a></h3>
+<h3>4.<a href="https://powellahaneku.github.io/powell.github.io/#Into">Bootsrap Web App</a></h3>
 <code>React</code> <code>npm</code> <code>Bootstrap</code> <code>HTML</code> <code>CSS</code> <code>Javascript</code> 
 <p> </p>
 
@@ -88,7 +88,7 @@ To complete these projects, I used a variety of tools and software. For database
 
 <!--Project 5 -->
 
-<h3>4.<a href="https://github.com/powellahaneku/robofriends">Robofriends React Web Page</a></h3>
+<h3>5.<a href="https://github.com/powellahaneku/robofriends">Robofriends React Web App</a></h3>
 <code>React</code> <code>npm</code> <code>Tachyons</code> <code>HTML</code> <code>CSS</code> <code>Javascript</code> <code>API</code>
 <p> </p>
 
