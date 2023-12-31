@@ -70,7 +70,7 @@ To complete these projects, I used a variety of tools and software. For database
 
 <p>Please know that the underlying information was altered to maintain data integrity. The presentation is not available due to privacy policies. </p>
 
-<b>See Project: </b><a href="https://github.com/powellahaneku/HRDataAnalysis/blob/main/HR%20Data%20Analysis.pbix">HR Analytics Dashboard PDF</a>
+<b>See Project: </b><a href="https://github.com/powellahaneku/HRDataAnalysis/blob/main/HR%20Data%20Analysis.pdf">HR Analytics Dashboard PDF</a>
 <br>
 <b>Skills: </b> DAX, Data Modeling, Excel, Data Visualization, ETL (Extract, Transform, Load), Power Query
 
