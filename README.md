@@ -91,14 +91,14 @@ To complete these projects, I used a variety of tools and software. For database
 
 <!--Project 5 -->
 
-<h3>5.<a href="https://github.com/powellahaneku/robofriends">Robofriends React Web App</a></h3>
+<h3>5.<a href="https://powellahaneku.github.io/robofriends/">Robofriends React Web App</a></h3>
 <code>React</code> <code>npm</code> <code>Tachyons</code> <code>HTML</code> <code>CSS</code> <code>Javascript</code> <code>API</code>
 <p> </p>
 
 <p>This React project showcases my proficiency in React, npm, GitHub, and web development. The website performs API calls to a dataset containing dummy information, enabling users to filter data by updating React component states.
 
 
-<b>See Project: </b><a href="https://github.com/powellahaneku/robofriends">Robofriends React Web Page</a>
+<b>See Project: </b><a href="https://powellahaneku.github.io/robofriends/">Robofriends React Web Page</a>
 
 <br>
 <b>Skills: </b> Bootstrap, Javascript, HTML/CSS, NPM, React, API Calling
