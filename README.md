@@ -64,7 +64,9 @@ To complete these projects, I used a variety of tools and software. For database
 
 <h3>3.<a href="https://github.com/powellahaneku/HouseSaleDashboard/blob/main/readme.md"> House Sale Dashboard</a></h3>
 <code>Tablueau Public</code> <code>Visualization</code> <code>Excel</code>
-<p> </p>
+<p> The King County House Sale Dashboard is a data visualization project created using Tableau. It offers a comprehensive analysis of house sales data in King County, Washington, providing valuable insights into housing trends for potential buyers, sellers, and real estate professionals.
+
+</p>
 <p>Include Text</p>
 <b>See Project: </b><a href="https://public.tableau.com/app/profile/powell.ahaneku/viz/KingsCountyHouseSales_17073741715870/KingCountyHouseSales?publish=yes">House Sale Dashboard</a>
 <br>
