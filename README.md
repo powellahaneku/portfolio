@@ -43,6 +43,10 @@ To complete these projects, I used a variety of tools and software. For database
 
 <!--Project 2 -->
 
+
+
+<!--Project 2 -->
+
 <h3>2.<a href="https://github.com/powellahaneku/Webscraper/tree/main">Web Scrapping ETL Tool</a></h3>
 <code>Javascript</code> <code>Excel</code>
 <p> </p>
@@ -56,11 +60,18 @@ To complete these projects, I used a variety of tools and software. For database
 <br>
 <b>Skills: </b> JavaScript, DOM traversal and manipulation, Asynchronous / Promises, Event Handling, HTML & CSS, Debugging, Local Storage, CSV file generation, and handling API calls for web interactions
 
+<!--Project 3 -->
 
+<h3>3.<a href="https://github.com/powellahaneku/HouseSaleDashboard/blob/main/readme.md"> House Sale Dashboard</a></h3>
+<code>Tablueau Public</code> <code>Visualization</code> <code>Excel</code>
+<p> </p>
+<p>Include Text</p>
+<b>See Project: </b><a href="https://public.tableau.com/app/profile/powell.ahaneku/viz/KingsCountyHouseSales_17073741715870/KingCountyHouseSales?publish=yes">House Sale Dashboard</a>
+<br>
 
 <!--Project 3 -->
 
-<h3>3.<a href="https://github.com/powellahaneku/HRDataAnalysis">HR Analytics Dashboard</a></h3>
+<h3>4.<a href="https://github.com/powellahaneku/HRDataAnalysis">HR Analytics Dashboard</a></h3>
 <code>DAX</code> <code>Excel</code> <code>Power BI</code> <code>SQL</code> <code>ETL</code>
 <p> </p>
 
@@ -77,7 +88,7 @@ To complete these projects, I used a variety of tools and software. For database
 
 <!--Project 4 -->
 
-<h3>4.<a href="https://powellahaneku.github.io/powell.github.io/#Into">Bootsrap Web App</a></h3>
+<h3>5.<a href="https://powellahaneku.github.io/powell.github.io/#Into">Bootsrap Web App</a></h3>
 <code>React</code> <code>npm</code> <code>Bootstrap</code> <code>HTML</code> <code>CSS</code> <code>Javascript</code> 
 <p> </p>
 
@@ -91,7 +102,7 @@ To complete these projects, I used a variety of tools and software. For database
 
 <!--Project 5 -->
 
-<h3>5.<a href="https://powellahaneku.github.io/robofriends/">Robofriends React Web App</a></h3>
+<h3>6.<a href="https://powellahaneku.github.io/robofriends/">Robofriends React Web App</a></h3>
 <code>React</code> <code>npm</code> <code>Tachyons</code> <code>HTML</code> <code>CSS</code> <code>Javascript</code> <code>API</code>
 <p> </p>
 
