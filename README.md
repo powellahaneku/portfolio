@@ -32,7 +32,7 @@ To complete these projects, I used a variety of tools and software. For database
 
 <!--Project 1 -->
 
-<h3>1.<a href=" "> Finance Dashboard</a></h3>(Coming Soon)
+<h3>1.<a href=" "> Data Warehousing Solution </a></h3>
 <!-- <code>Python</code> <code>Excel</code> <code>Power BI</code> <code>API's</code>
 <p> </p>
 <p>Include Text</p>
