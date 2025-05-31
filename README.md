@@ -32,14 +32,16 @@ To complete these projects, I used a variety of tools and software. For database
 
 <!--Project 1 -->
 
-<h3>1.<a href=" "> Data Warehousing Solution </a></h3>
-<!-- <code>Python</code> <code>Excel</code> <code>Power BI</code> <code>API's</code>
+<h3>1.<a href="https://github.com/powellahaneku/datawarehouse/tree/main"> Data Warehousing Solution (Medallion Architecture)</a></h3>
+<code>Python</code> <code>Google BigQuery</code> <code>Google Cloud Storage</code> <code>Power BI</code> <code>NYC Open Data APIs</code>
 <p> </p>
-<p>Include Text</p>
-<b>See Project: </b><a href="https://github.com/powellahaneku/Webscraper/tree/main">Interactive Finance Dashboard</a>
+<p>Our project, 311 Complaint & Collision Analytics, investigates the relationship between New York City’s 311 service complaints and motor vehicle collisions to identify patterns, high-risk areas, and opportunities for improving urban service efficiency and public safety. Utilizing data from NYC Open Data APIs, we built a scalable data pipeline employing Python for extraction and pagination handling, Google BigQuery and Google Cloud Storage for data warehousing, and Power BI for visualization. Our design leverages the Medallion Architecture, which organizes data into three layers—Bronze (raw data ingestion), Silver (cleaned and standardized tables), and Gold (aggregated, analysis-ready data)—ensuring clean separation, data quality, and scalability. We developed a star schema with shared dimension tables linking complaints and collision fact tables, supporting KPIs such as action rates, resolution times, collision trends, and complaint frequencies by borough, precinct, and income level. Our interactive Power BI dashboard enables stakeholders to explore insights in real time, highlighting crucial findings like the higher complaint rates in affluent areas, the elevated vehicle fatalities in low-income neighborhoods, and the influence of complaint proximity to police precincts. This project showcases the transformative power of data architecture and analytics in shaping smarter, safer cities.
+
+</p>
+<b>See Project: </b><a href="https://github.com/powellahaneku/datawarehouse/tree/main">Data Warehousing Solution Dashboard</a>
 <br>
-<b>Skills: </b> JavaScript expertise, DOM traversal and manipulation, asynchronous / promises, event handling, HTML & CSS, debugging, local storage, CSV file generation, and handling API calls for web interactions
- -->
+<b>Skills: </b> Skills: Python, ETL (Extract, Transform, Load), data warehousing (Google BigQuery, Google Cloud Storage), star schema design, Medallion architecture, data modeling, SQL, API integration (NYC Open Data APIs), Power BI (dashboards, KPIs, interactive filters), data cleaning and normalization, deduplication, mapping and transformation, geospatial analysis, data storytelling, problem-solving, team collaboration, and communication.
+
 
 <!--Project 2 -->
 
