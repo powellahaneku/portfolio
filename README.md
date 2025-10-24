@@ -46,18 +46,4 @@ A Power BI dashboard offering comprehensive HR metrics like headcount, attrition
 **Key Tools:** Power BI, DAX, SQL, Excel  
 [View Project](https://github.com/powellahaneku/HRDataAnalysis/blob/main/HR%20Data%20Analysis.pdf)
 
----
 
-### 5. [Powell's Web Portfolio (Bootstrap Web App)](https://powellahaneku.github.io/powell.github.io/#Into)  
-A personal portfolio showcasing ongoing web projects, highlighting expertise in React, Bootstrap, and dynamic content.  
-**Key Tools:** React, Bootstrap, JavaScript, HTML/CSS  
-[Visit Site](https://powellahaneku.github.io/powell.github.io/#Into)
-
----
-
-### 6. [Robofriends React App](https://powellahaneku.github.io/robofriends/)  
-A React web app demonstrating dynamic filtering of API data with clean component-based design and responsive styling.  
-**Key Tools:** React, JavaScript, Tachyons, APIs  
-[Visit Site](https://powellahaneku.github.io/robofriends/)
-
----
