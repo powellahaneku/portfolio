@@ -9,7 +9,7 @@ Hello and welcome! I’m **Powell Ahaneku**, a data consultant and developer. Th
 
 ---
 
-## 🛠️ Core Skills
+## Core Skills
 
 - **Data Analytics:** SQL (PostgreSQL, MySQL), Python (Pandas, NumPy, Scikit-Learn), Excel, Power BI, Tableau  
 - **Data Engineering:** ETL processes, data modeling, warehousing (Google BigQuery, Medallion architecture)  
@@ -18,7 +18,7 @@ Hello and welcome! I’m **Powell Ahaneku**, a data consultant and developer. Th
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ### 1. [GCP Based 311 Service Analytics](https://github.com/powellahaneku/datawarehouse/tree/main)  
 A data warehousing solution leveraging NYC Open Data APIs to analyze patterns in city complaints and traffic collisions. Built with Python for extraction, Google BigQuery for storage, and Power BI for interactive dashboards. Showcases data modeling using Medallion architecture and geospatial insights.  
