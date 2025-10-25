@@ -1,7 +1,7 @@
 
 # Powell Ahaneku's Project Portfolio
 
-`Data Analytics` `Financial Analysis` `Web Development`
+`Data Engineering` `Data Architecture` `Web Development`
 
 ---
 
