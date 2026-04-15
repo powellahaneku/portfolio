@@ -5,7 +5,7 @@
 
 ---
 
-Hello and welcome! I’m **Powell Ahaneku**, a data consultant and developer. This portfolio highlights my work across data analytics, financial modeling, and web development. I blend tools like SQL, Python, and Power BI with creativity to deliver actionable insights and interactive experiences.
+Hello and welcome! I’m **Powell Ahaneku**, a data engineer and BI developer. This portfolio highlights my work across data analytics, modelling and architecture. I blend tools like SQL, Python, and Power BI with creativity to deliver actionable insights and interactive experiences.
 
 ---
 
