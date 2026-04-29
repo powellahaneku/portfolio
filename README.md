@@ -20,7 +20,16 @@ Hello and welcome! I’m **Powell Ahaneku**, a data engineer and BI developer. T
 
 ## Featured Projects
 
-### 1. [GCP Based 311 Service Analytics](https://github.com/powellahaneku/datawarehouse/tree/main)  
+### 1. Snowflake + dbt + AWS Data Warehouse  
+A data warehousing solution leveraging cloud-native AWS services to ingest, transform, and analyze data at scale. Built with Python for extraction, Amazon S3 for storage, Snowflake for warehousing, and dbt for transformation and data modeling. Showcases implementation of Medallion architecture and scalable ELT pipelines.  
+**Key Tools:** Python, AWS, Snowflake, dbt, SQL
+[View Project](https://github.com/powellahaneku/gb_analytics_demo/tree/main)
+
+<img src="gbdemo.png" width="900px">
+
+---
+
+### 2. [GCP Based 311 Service Analytics](https://github.com/powellahaneku/datawarehouse/tree/main)  
 A data warehousing solution leveraging NYC Open Data APIs to analyze patterns in city complaints and traffic collisions. Built with Python for extraction, Google BigQuery for storage, and Power BI for interactive dashboards. Showcases data modeling using Medallion architecture and geospatial insights.  
 **Key Tools:** Python, Google Cloud, Power BI, SQL, APIs  
 [View Project](https://github.com/powellahaneku/datawarehouse/tree/main)
