@@ -23,7 +23,7 @@ Hello and welcome! I’m **Powell Ahaneku**, a data engineer and BI developer. T
 ### 1. Snowflake + dbt + AWS Data Warehouse  
 A data warehousing solution leveraging cloud-native AWS services to ingest, transform, and analyze data at scale. Built with Python for extraction, Amazon S3 for storage, Snowflake for warehousing, and dbt for transformation and data modeling. Showcases implementation of Medallion architecture and scalable ELT pipelines.  
 **Key Tools:** Python, AWS, Snowflake, dbt, SQL
-[View Project](https://github.com/powellahaneku/gb_analytics_demo/tree/main)
+[View Project](https://github.com/powellahaneku/db_analytics_demo/tree/main)
 
 <img src="gbdemo.png" width="900px">
 
