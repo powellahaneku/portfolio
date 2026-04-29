@@ -1,7 +1,7 @@
 
 # Powell Ahaneku's Project Portfolio
 
-`Data Engineering` `Data Architecture` `Web Development`
+`Data Engineering` `Data Architecture` `Data Modelling`
 
 ---
 
@@ -11,10 +11,9 @@ Hello and welcome! I’m **Powell Ahaneku**, a data engineer and BI developer. T
 
 ## Core Skills
 
-- **Data Analytics:** SQL (PostgreSQL, MySQL), Python (Pandas, NumPy, Scikit-Learn), Excel, Power BI, Tableau  
-- **Data Engineering:** ETL processes, data modeling, warehousing (Google BigQuery, Medallion architecture)  
+- **Data Analytics:** SQL (PostgreSQL, MySQL), Python (Pandas, NumPy, Scikit-Learn), Excel, Power BI, 
+- **Data Engineering:** ETL processes, data modeling, warehousing (Google BigQuery, Snowflake, Azure, AWS, Informatica, SSMS, Medallion architecture)  
 - **Visualization & Reporting:** Power BI dashboards, Tableau visualizations, Excel modeling  
-- **Web Development:** JavaScript, React, Bootstrap, HTML/CSS, APIs  
 
 ---
 
