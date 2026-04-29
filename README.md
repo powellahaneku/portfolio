@@ -34,7 +34,7 @@ An interactive Tableau visualization analyzing house sales in King County, WA, h
 **Key Tools:** Tableau Public, Excel  
 [View Project](https://github.com/powellahaneku/HouseSaleDashboard/blob/main/readme.md)
 
-<img src="KingsCountyHouseSale.jpeg" width="900px">
+<img src="KingCountyHouseSale.jpeg" width="900px">
 
 ---
 
