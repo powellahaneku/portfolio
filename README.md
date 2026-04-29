@@ -1,5 +1,5 @@
 
-# Powell Ahaneku's Project Portfolio
+# Powell's Project Portfolio
 
 `Data Engineering` `Data Architecture` `Data Modelling`
 
