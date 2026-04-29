@@ -25,12 +25,7 @@ A data warehousing solution leveraging NYC Open Data APIs to analyze patterns in
 **Key Tools:** Python, Google Cloud, Power BI, SQL, APIs  
 [View Project](https://github.com/powellahaneku/datawarehouse/tree/main)
 
----
-
-### 2. [Javascript Webscraping ETL Tool](https://github.com/powellahaneku/Webscraper/tree/main)  
-A JavaScript-based scraper automating data extraction of student records from web interfaces. Features data validation, local storage, and CSV generation for streamlined reporting.  
-**Key Tools:** JavaScript, HTML/CSS, Local Storage, CSV Export  
-[View Project](https://github.com/powellahaneku/Webscraper/tree/main)
+<img src="Blank diagram - Page 1 (3).png" width="900px">
 
 ---
 
@@ -39,11 +34,15 @@ An interactive Tableau visualization analyzing house sales in King County, WA, h
 **Key Tools:** Tableau Public, Excel  
 [View Project](https://github.com/powellahaneku/HouseSaleDashboard/blob/main/readme.md)
 
+<img src="Blank diagram - Page 1 (3).png" width="900px">
+
 ---
 
 ### 4. [Power BI & DAX HR Analytics Dashboard](https://github.com/powellahaneku/HRDataAnalysis/blob/main/HR%20Data%20Analysis.pdf)  
 A Power BI dashboard offering comprehensive HR metrics like headcount, attrition, promotions, and overtime trends. Built with DAX, Excel, and Power Query for clean ETL processes.  
 **Key Tools:** Power BI, DAX, SQL, Excel  
-[View Project](https://github.com/powellahaneku/HRDataAnalysis/blob/main/HR%20Data%20Analysis.pdf)
+[View Project](https://github.com/powellahaneku/HRDataAnalysis/blob/main)
+
+<img src="Blank diagram - Page 1 (3).png" width="900px">
 
 
