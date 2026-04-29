@@ -43,6 +43,6 @@ A Power BI dashboard offering comprehensive HR metrics like headcount, attrition
 **Key Tools:** Power BI, DAX, SQL, Excel  
 [View Project](https://github.com/powellahaneku/HRDataAnalysis/blob/main)
 
-<img src="HR Data Analysis.pdf" width="900px">
+<img src="Screenshot2026-04-29at2.56.07A.jpeg" width="900px">
 
 
